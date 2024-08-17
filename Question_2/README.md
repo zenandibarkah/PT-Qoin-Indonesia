@@ -2,13 +2,13 @@
 
 Clone the project
 
-```git
+```bash
   git clone https://github.com/zenandibarkah/PT-Qoin-Indonesia.git
 ```
 
 Go to the project directory
 
-```go
+```bash
   cd your-directory/PT-Qoin-Indonesia/Question_2
 ```
 
