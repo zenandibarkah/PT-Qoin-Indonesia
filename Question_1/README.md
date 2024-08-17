@@ -12,7 +12,7 @@
 - Aplikasi ini bisa melihat history pemesanan dengan adanya catatan nama cashier.
 
 ## Diagram Database
-![alt text](https://github.com/zenandibarkah/PT-Qoin-Indonesia/blob/master/Question%201/Diagram_database.png?raw=true)
+![alt text](https://github.com/zenandibarkah/PT-Qoin-Indonesia/blob/master/Question_1/Diagram_database.png?raw=true)
 
 ## Teknologi yang digunakan
 - **Backend:** Golang
